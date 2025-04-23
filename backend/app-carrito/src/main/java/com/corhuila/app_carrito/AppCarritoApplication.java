@@ -1,0 +1,12 @@
+package com.corhuila.app_carrito;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppCarritoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppCarritoApplication.class, args);
+	}
+}
